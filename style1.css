@@ -1,0 +1,30 @@
+.navbar {
+  background: linear-gradient(to right, red, orangered, deepskyblue);
+}
+.jumbotron {
+  background-image: url(/porttofolio/img/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-4096x2304-1455.jpg);
+  padding-top: 65px;
+  text-shadow: 2px 3px 5px black;
+}
+#projects {
+  background-image: url(/porttofolio/img/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-4096x2304-1455.jpg);
+}
+#footer {
+  background-image: url(/porttofolio/img/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-4096x2304-1455.jpg);
+  padding: 20px;
+  text-align: center;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+}
+footer a:hover {
+  color: aqua;
+  text-decoration: none;
+}
+i:hover {
+  color: aqua;
+}
+section {
+  padding-top: 80px;
+}
